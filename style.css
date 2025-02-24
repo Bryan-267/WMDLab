@@ -1,0 +1,12 @@
+body{
+  background-color: grey;
+}
+h1{
+  color: blue;
+  font-family: Verdana;
+}
+p{
+  background-color: black;
+  color: white;
+  font-family: Verdana;
+}
